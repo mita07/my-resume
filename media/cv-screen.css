@@ -185,7 +185,21 @@ strong {
 	display: none;
 }
 
+#signature{
+    right: 5%;
+    text-align: right;
+    width: 20%;
+    left: 80%;
+    margin-left: 70%;
+    margin-top: 150px;
+}
 
+#signature hr{
+    color: gray;
+    margin-bottom: 0px;
+    margin: 0px;
+    padding-bottom: 0px;
+}
 
 /*
 @media only screen and (max-width: 480px) {
