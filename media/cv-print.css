@@ -204,3 +204,6 @@ strong {
     padding-bottom: 0px;
 }
 
+#cvpdf{
+    display: none;
+}
