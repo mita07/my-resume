@@ -9,8 +9,9 @@ PHP Programmer, Web Technology Enthusiast
 <a href="mailto:shaharia.azam@gmail.com" title="click to email">shaharia.azam@gmail.com</a>
 | <a href="http://www.shahariaazam.com">shahariaazam.com</a>
 | <a href="https://www.facebook.com/shaharia.azam">facebook</a>
-| <a href="https://plus.google.com/u/0/114541364064474970092">Google Plus</a>
+| <a href="http://bit.ly/shaharia-gplus">Google Plus</a>
 | <a href="http://www.twitter.com/shaharia">Twitter</a>
+| <a href="http://bit.ly/shaharia-linkedin">LinkedIn</a>
 </div>
 
 
@@ -77,7 +78,7 @@ __Frameworks__
 - Experience in the use of various frameworks ( *CakePHP*, *CodeIgniter*, *Zend Framework*, *Laravel*)
 
 __CMS__
-- Experienced in most of the popular CMSs ( *Wordpress*, *Drupal*, *ZenCart*, *Joomla*)
+- Experienced in most of the popular CMSs ( *Wordpress*, *Drupal*, *ZenCart*, *Joomla*, *Drupal*)
 
 
 ### Markup Language
@@ -154,6 +155,8 @@ __Diagram__
 `Joomla`
 - Module Development, Template design
 
+`Drupal`
+- Extending functionality and Template design
 
 ## API based solution and skill
 
@@ -170,14 +173,283 @@ __Social Community__
 - Facebook Graph API for Facebook Apps Development, Twitter Developer API
 
 
-## Interests
-Jazz music. International relations. Semiotics and
-its implications on mass psychology. Buddhism, Zen and oriental
-philosophies. Reading classics of Italian and English literature.
-Travelled by kayak along the major European rivers. Rock Climbing.
+## Utilities and IDE
+` `
+JetBrains PHPStorm, Dreamweaver, Netbeans, Eclipse
 
-<!-- ### Footer
+## OS and Web Server
+`OS`
+Ubuntu, Linux RHEL9, Windows XP, Windows 7
 
-Last updated: October 2012 -->
+`Web Server`
+Xampp, Wamp, LAMP, IIS
+
+## Professional Experiences
+`2010`
+__Preview ICT Limited__
+
+- Sr. Web Developer
+
+__Responsibility__
+
+-Build and develop reliable, secured and scalable web application in PHP language.
+To maintain all sorts of project and distribute and monitoring all programming codes, providing solution. Database design, maintenance.
+
+__Duration__
+
+February 2010 to present
+
+__URL__
+
+[http://www.previewict.com](http://www.previewict.com)
 
 
+
+`2012`
+__SpeedPlus Network__
+
+- Sr. PHP Programmer (Part-time)
+
+__Responsibility__
+
+- Build and develop a social featured micro-blogging platform from scratch in Zend Framework.
+
+__Duration__
+
+- July 2012 to February 2013
+
+__URL__
+
+- [http://www.nokkhotroblog.com](http://www.nokkhotroblog.com)
+
+
+
+## Membership and Communities
+__PHP Programmers__
+-Founder and moderator of __[PHP Programmers](https://plus.google.com/u/0/communities/104245651975268426012)__ community in Google Plus. More than 30K+ members. It's the largest community for PHP Programmers
+in whole Google+ communities. Community link: [https://plus.google.com/u/0/communities/104245651975268426012](https://plus.google.com/u/0/communities/104245651975268426012)
+
+__Open Lab Scientist__
+- Founder of this remote research organization consist of few young IT professional who work on innovative ideas to create innovation.
+
+__British Computer Society__
+- Associate member of British Computer Society which works on various fields of information and technology.
+
+## Professional Portfolio
+`Project 01`
+__Multi Level Marketing (MLM) Management__
+
+- Four different types of multi level marketing management system developed with Binary Tree and
+automated matching system integrated.
+
+__*Features*__
+
+- -Complex Binary Tree Setup and CRUD operation
+- -Generation calculation through Binary Tree
+- -Automated Matching
+- -User Profile Management
+- -Billing and Payment Module
+- -Automated Messaging and Mailing system
+- -Optimized Database Query for more than 1000+ query at a time
+
+__*Framework and Language*__
+
+-Twitter Bootstrap (Front-end and UI development)
+-CakePHP (Core functionality development)
+
+__Project URL__
+http://www.patriot-bd.com
+
+
+
+`Project 02`
+__Social Micro-Blogging Platform Development__
+
+- Micro-blogging platform development from scratch with basic blogging and social feature integration.
+
+__*Features*__
+
+- -User can write/edit/delete blog post, literature, poem even serialized post
+- -User can follow other user
+- -Privacy Management
+- -User Profile Management
+- -Social Facebook like wall
+- -Real time chatting
+- -Customized interface by each user
+
+__*Framework and Language*__
+
+-Twitter Bootstrap (Front-end and UI development)
+-Zend Framework (Core functionality development)
+
+__*Project URL*__
+http://www.nokkhotroblog.com
+
+
+
+`Project 03`
+__Local Directory Management Portal__
+
+- Local jobs, local advertisements, local listing management portal in Bangladesh.
+
+__*Features*__
+
+- -User can post his products, CV, job circular, to-let advertisements and various kinds of offers.
+- -Internal Messaging
+- -Administrative Management module
+- -Interactive report design and development
+- -Security and Spam protection
+- -Real time update
+
+__*Framework and Language*__
+
+-Twitter Bootstrap (Front-end and UI development)
+-CakePHP (Core functionality development)
+
+__*Project URL*__
+http://www.satkhirainfo.com
+
+
+
+
+`Project 04`
+__Next Generation Bangladesh Portal__
+
+- The first Geo location based web portal in Bangladesh.
+
+__*Features*__
+
+- -User can search offers or deals by entering their address.
+- -Geo location detection and user's personal preference data collection by artifical intellegence capability of programming language.
+- -Offer or deal posting by general user
+- -Automated 'Offer you may like most' type robotic data mining technology
+- -Billing and Payment Module development
+- -Security enhancement and optimized for cloud server
+- -Real time update
+- -Customized Google Maps with local information
+
+__*Framework and Language*__
+
+-Twitter Bootstrap (Front-end and UI development)
+-Raw PHP helper and module development
+-CakePHP (Core functionality development)
+
+__*Project URL*__
+http://www.bdnext.com
+
+
+
+`Project 05`
+__Official Website of Newport University CED__
+
+- Official website of an international university developed by customizing wordpress.
+
+__*Project URL*__
+http://www.newportuniversity.edu.lv
+
+
+
+`Project 06`
+__Personal Website__
+
+- Personal website of (myself)G. M. Shaharia Azam.
+
+__*Project URL*__
+http://www.shahariaazam.com
+
+
+
+`Project 07`
+__Satkhira Consulting Firm limited__
+
+- Official website of Satkhira Consulting Firm limited.
+
+__*Project URL*__
+http://www.scflbd.com
+
+
+
+`Project 08`
+__Official website of Preview ICT__
+
+- Official website of Preview ICT Limited which have automated domain, hosting and billing management system for clients.
+
+__*Project URL*__
+http://www.previewict.com
+
+
+
+`Project 09`
+__Wordpress Plugin__
+
+- Wordpress official plugin for Search Engine Optimization which has been published and stored in official plugin repository of Wordpress.
+
+__*Project URL*__
+http://wordpress.org/plugins/title-research/
+
+
+
+`Project 10`
+__Google Chrome Apps__
+
+- Real time offer notification alert apps for Google Chrome.
+
+__*Project URL*__
+https://www.previewict.com/sites/chromeapp
+
+`*and few more...*`
+
+
+## Personal Information
+__Name of Father__
+- G. M. Nowsher Ali
+
+__Name of Mother__
+- Aklima Begum
+
+__Date of Birth__
+- 26 November 1988
+
+__Blood Group__
+- B+
+
+__Marital Status__
+- Single
+
+
+
+## Interest
+Reading books, Reading and writing blog, Solving problem, Innovation, Travelling, Making new friends
+
+## Important Links
+*To explore more about my professional footprints you can navigate to the following links-*
+
+__GitHub Repositories__
+[https://github.com/shahariaazam](https://github.com/shahariaazam)
+
+__Social Fan Page__
+[https://www.facebook.com/shahariaazamweb](https://www.facebook.com/shahariaazamweb)
+
+__Personal Blog__
+[http://www.shahariaazam.com](http://www.shahariaazam.com)
+
+
+## Reference
+__Chowdhury Mrinal Ahmed__
+
+President, Newport University CED
+
+Bangladesh Campus.
+
+president@newportuniversity.edu.lv
+
+
+<br />
+
+__Yusuf M. Islam__
+
+Director, Daffodil Human Resource Development Institute
+
+Dhaka, Bangladesh.
+
+ymislam@gmail.com
