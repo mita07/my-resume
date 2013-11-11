@@ -75,10 +75,19 @@ __PSR__
 - structure that takes advantage of all the features of object oriented programming in php for libraries easy to develop, maintain and operate with other libraries
 
 __Frameworks__
-- Experience in the use of various frameworks ( *CakePHP*, *CodeIgniter*, *Zend Framework*, *Laravel*)
+- Experience in the use of various frameworks ( *CakePHP*, *Slim*, *CodeIgniter*, *Zend Framework*, *Laravel*)
 
 __CMS__
 - Experienced in most of the popular CMSs ( *Wordpress*, *Drupal*, *ZenCart*, *Joomla*, *Drupal*)
+
+__TEMPLATE ENGINE__
+- Skilled in most popular PHP Template Engine ( *Twig*, *Smarty*)
+
+__ORM__
+- Smart skilled in most popular Object-Relational Mapping (ORM) ( *Propel*)
+
+__DEPENDENCY MANGER__
+- *Composer*
 
 
 ### Markup Language
@@ -115,7 +124,7 @@ __Description__
 user's usability in various device. Interactive designing with modern look and feel to make any website or web apps more user-friendly and lookrative
 
 __Framework__
-- Twitter Bootstrap, Blueprint, 960 Grid System and most popular CSS frameworks
+- Twitter Bootstrap 3.0/2.0, Blueprint, 960 Grid System and most popular CSS frameworks
 
 ### Relational Database Management System (RDBMS)
 
@@ -160,6 +169,9 @@ __Diagram__
 
 ## API based solution and skill
 
+__Email System__
+- Mandrill
+
 __Google Developers__
 - Google Map, Google+, Google Wallet, Youtube, URL Shortener, Web Search
 
@@ -172,17 +184,22 @@ __Online Marketplace__
 __Social Community__
 - Facebook Graph API for Facebook Apps Development, Twitter Developer API
 
+__Others__
+- United Parcel Service (UPS) API, eCommerce Payment Gateway API (Paypal, Visa/MasterCard, 2CO, Authorize.Net), Amazon Web Service (AWS) API
+
+
+
 
 ## Utilities and IDE
 ` `
-JetBrains PHPStorm, Dreamweaver, Netbeans, Eclipse
+JetBrains PHPStorm, Sublime Text 2, Dreamweaver, Netbeans, Eclipse
 
 ## OS and Web Server
 `OS`
-Ubuntu, Linux RHEL9, Windows XP, Windows 7
+Ubuntu 12.04 (Desktop/Server Edition), Linux RHEL9, Windows XP, Windows 7
 
 `Web Server`
-Xampp, Wamp, LAMP, IIS
+Apache 2, Nginx, Xampp, Wamp, LAMP, IIS
 
 ## Professional Experiences
 `2010`
@@ -221,6 +238,41 @@ __Duration__
 __URL__
 
 - [http://www.nokkhotroblog.com](http://www.nokkhotroblog.com)
+
+`2013`
+__Rhino Gutter Guard__
+
+- Software Engineer (Part-time)
+
+__Responsibility__
+
+- Develop a web application to manage product management and delivery system with custom access control.
+
+__Duration__
+
+- October 2013 to continue
+
+__URL__
+
+- [http://www.rhino-orkinportal.com](http://www.rhino-orkinportal.com)
+
+
+`2013`
+__InkFrog__
+
+- Software Engineer (Part-time)
+
+__Responsibility__
+
+- Custom ecommerce sales tracking system for eBay seller/buyer.
+
+__Duration__
+
+- November 2013 to continue
+
+__URL__
+
+- [http://www.inkfrog.com](http://www.inkfrog.com)
 
 
 
