@@ -188,6 +188,9 @@ __Others__
 - United Parcel Service (UPS) API, eCommerce Payment Gateway API (Paypal, Visa/MasterCard, 2CO, Authorize.Net), Amazon Web Service (AWS) API
 
 
+## Cloud Server
+
+__Amazon EC2 Cloud Server__
 
 
 ## Utilities and IDE
@@ -448,6 +451,24 @@ __Google Chrome Apps__
 
 __*Project URL*__
 https://www.previewict.com/sites/chromeapp
+
+
+`Project 11`
+__SalesBin (Sales Tracking System for eBay)__
+
+- Track sales for eBay ecommerce market place.
+
+__*Project URL*__
+http://www.salesbin.com
+
+
+`Project 12`
+__Rhino-Orkin Job Portal__
+
+- Product delivery and job tracking system for Branch, Dealer, Account Manager with custom permission sets built in CakePHP
+
+__*Project URL*__
+http://www.rhino-orkinportal.com
 
 `*and few more...*`
 
