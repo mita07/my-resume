@@ -48,7 +48,7 @@ __Adamjee Cantonment College__
 `2013`
 __Daffodil International University__
 
-- Bachelors in Computer Science and Technology
+- Bachelors in Computer Science and Engineering
 
 
 ## Language and Technologies
