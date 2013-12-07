@@ -144,6 +144,10 @@ __*Framework and Language*__
 __Project URL__
 http://www.patriot-bd.com
 
+http://www.mitayesmin.com/my_project_works/project_on_real_estate_company/index.html
+
+http://www.mitayesmin.com/my_project_works/musical_website/index.html
+
 
 
 
