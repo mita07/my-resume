@@ -15,38 +15,34 @@ Professional Web Designer, UI Enthusiast
 
 
 
-## Specialized in
+## Specialized in:
 Designing interactive website to satisfy the client's need and requirements by using the latest tools and technologies. Specialized in User Interface design with highly optimized techniques.
 
 
-## Research interests
+## Research interests:
 Web Technology, Information Technology, Internet, Networking, Reading, Writing.
 
 
-## Languages
+## Languages:
 Bengali: Mother tongue  
 English: Moderate oral & written fluency  
 
 
-## Education
-
+## Education:
 `2006`
 __Adarsha Biddya Niketon__
-
 - Secondary School Certificate
 - Science group
 
 
 `2008`
 __Adamjee Cantonment College__
-
 - Higher Secondary Certificate
 - Science Group
 
 
 `2013`
 __Daffodil International University__
-
 - Bachelors in Computer Science and Engineering
 
 
