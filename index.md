@@ -15,20 +15,20 @@ Professional Web Designer, UI Enthusiast
 
 
 
-## Specialized in:
+## Specialized in
 Designing interactive website to satisfy the client's need and requirements by using the latest tools and technologies. Specialized in User Interface design with highly optimized techniques.
 
 
-## Research interests:
+## Research interests
 Web Technology, Information Technology, Internet, Networking, Reading, Writing.
 
 
-## Languages:
+## Languages
 Bengali: Mother tongue  
 English: Moderate oral & written fluency  
 
 
-## Education:
+## Education
 `2006`
 __Adarsha Biddya Niketon__
 - Secondary School Certificate
@@ -50,7 +50,6 @@ __Daffodil International University__
 
 <!-- Few description can be written here -->
 
-
 ### Markup Language
 
 `HTML/HTML5`
@@ -59,6 +58,7 @@ __Experience__
 
 __Description__
 - Design interactive and responsive UI with the latest HTML technology that meet any kinds of requirement of clients. Liquid and responsive web interface to fit the apps in almost all device without any major change in core UI.
+
 
 ### Client-side Scripting Language
 
@@ -71,6 +71,7 @@ __Description__
 
 __Framework__
 - jQuery, jQuery Mobile (Mobile device friendly UI)
+
 
 ### Style-sheet Language
 
@@ -85,31 +86,30 @@ __Framework__
 - Twitter Bootstrap 3.0/2.0, Blueprint, 960 Grid System and most popular CSS frameworks
 
 
+
 ## Utilities and IDE
 ` `
 Dreamweaver, NotePad++
+
+
 
 ## OS and Web Server
 `OS`
 Windows 7/8, Windows XP
 
+
+
 ## Professional Experiences
 `2012`
 __Preview ICT Limited__
-
 - Jr. Web Designer
-
 __Responsibility__
-
 - Design website basis on requirements of various types of clients, Responsive design testing, mock-up web page design and UI extend or modification.
-
 __Duration__
-
 February 2012 to 2013
-
 __URL__
-
 [http://www.previewict.com](http://www.previewict.com)
+
 
 
 ## Professional Portfolio
