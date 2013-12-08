@@ -16,17 +16,14 @@ Professional Web Designer, UI Enthusiast
 
 
 ## Specialized in
-
 Designing interactive website to satisfy the client's need and requirements by using the latest tools and technologies. Specialized in User Interface design with highly optimized techniques.
 
 
 ## Research interests
-
 Web Technology, Information Technology, Internet, Networking, Reading, Writing.
 
 
 ## Languages
-
 Bengali: Mother tongue  
 English: Moderate oral & written fluency  
 
