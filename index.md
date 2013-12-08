@@ -102,18 +102,26 @@ Windows 7/8, Windows XP
 ## Professional Experiences
 `2012`
 __Preview ICT Limited__
+
 - Jr. Web Designer
+
 __Responsibility__
+
 - Design website basis on requirements of various types of clients, Responsive design testing, mock-up web page design and UI extend or modification.
+
 __Duration__
+
 February 2012 to 2013
+
 __URL__
+
 [http://www.previewict.com](http://www.previewict.com)
 
 
 
 ## Professional Portfolio
 `Project 01`
+
 __Multi Level Marketing (MLM) Management__
 
 - Four different types of multi level marketing management system developed with Binary Tree and automated matching system integrated.
