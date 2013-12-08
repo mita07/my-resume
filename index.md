@@ -58,7 +58,7 @@ __Daffodil International University__
 <!-- Few description can be written here -->
 
 
-## Markup Language
+### Markup Language
 
 `HTML/HTML5`
 __Experience__
@@ -67,7 +67,7 @@ __Experience__
 __Description__
 - Design interactive and responsive UI with the latest HTML technology that meet any kinds of requirement of clients. Liquid and responsive web interface to fit the apps in almost all device without any major change in core UI.
 
-## Client-side Scripting Language
+### Client-side Scripting Language
 
 `JS`
 __Experience__
