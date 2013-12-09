@@ -179,7 +179,7 @@ __Musical Website__
 
 __*Features*__
 
-- -Use of flash for animations
+- -Usingflash for animations
 - -Get latest music album
 - -Advantage of different types songs download or play
 
