@@ -18,15 +18,12 @@ Professional Web Designer, UI Enthusiast
 ## Specialized in
 Designing interactive website to satisfy the client's need and requirements by using the latest tools and technologies. Specialized in User Interface design with highly optimized techniques.
 
-
 ## Research interests
 Web Technology, Information Technology, Internet, Networking, Reading, Writing.
-
 
 ## Languages
 Bengali: Mother tongue  
 English: Moderate oral & written fluency  
-
 
 ## Education
 `2006`
@@ -34,17 +31,14 @@ __Adarsha Biddya Niketon__
 - Secondary School Certificate
 - Science group
 
-
 `2008`
 __Adamjee Cantonment College__
 - Higher Secondary Certificate
 - Science Group
 
-
 `2013`
 __Daffodil International University__
 - Bachelors in Computer Science and Engineering
-
 
 ## Language and Technologies
 
@@ -58,7 +52,6 @@ __Experience__
 
 __Description__
 - Design interactive and responsive UI with the latest HTML technology that meet any kinds of requirement of clients. Liquid and responsive web interface to fit the apps in almost all device without any major change in core UI.
-
 
 ### Client-side Scripting Language
 
@@ -80,11 +73,10 @@ __Experience__
 - 3 years
 
 __Description__
-- Describes the presentation semantics (the look and formatting) of a document written in a markup language. Responsive, liquid and grid layout concepts is very much focused to increase user's usability in various device. Interactive designing with modern look and feel to make any website or web apps more user-friendly and lookrative
+- Describes the presentation semantics (the look and formatting) of a document written in a markup language. Responsive, liquid and grid layout concepts is very much focused to increase user's usability in various device. Interactive designing with modern look and feel to make any website or web apps more user-friendly and lookrative.
 
 __Framework__
 - Twitter Bootstrap 3.0/2.0, Blueprint, 960 Grid System and most popular CSS frameworks
-
 
 
 ## Utilities and IDE
@@ -92,11 +84,9 @@ __Framework__
 Dreamweaver, NotePad++
 
 
-
 ## OS and Web Server
 `OS`
 Windows 7/8, Windows XP
-
 
 
 ## Professional Experiences
@@ -118,13 +108,13 @@ __URL__
 [http://www.previewict.com](http://www.previewict.com)
 
 
-
 ## Professional Portfolio
 `Project 01`
 
 __A complete website of Real Estate Company__
 
-- ABCD Design & Builders ltd. is an explosion of global modern real estate sector for the purpose of the country citizens need. Its sister concern of can enterprise. A group of well experienced diversified personalities having thorough hands on working habits in the real estate sector of Bangladesh as well as clear concept of similar to the global market. 
+- ABCD Design & Builders ltd. is an explosion of global modern real estate sector for the purpose of the country
+citizens need. Its sister concern of can enterprise. A group of well experienced diversified personalities having thorough hands on working habits in the real estate sector of Bangladesh as well as clear concept of similar to the global market. 
 
 __*Features*__
 
@@ -180,7 +170,6 @@ __Blood Group__
 
 __Marital Status__
 - Single
-
 
 
 ## Interest
