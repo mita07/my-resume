@@ -122,19 +122,19 @@ __URL__
 ## Professional Portfolio
 `Project 01`
 
-__Multi Level Marketing (MLM) Management__
+__A complete website of Real Estate Company__
 
-- Four different types of multi level marketing management system developed with Binary Tree and automated matching system integrated.
+- ABCD Design & Builders ltd. is an explosion of global modern real estate sector for the purpose of the country citizens need. Its sister concern of can enterprise. A group of well experienced diversified personalities having thorough hands on working habits in the real estate sector of Bangladesh as well as clear concept of similar to the global market. 
 
 __*Features*__
 
-- -Complex Binary Tree Setup and CRUD operation
-- -Generation calculation through Binary Tree
-- -Automated Matching
-- -User Profile Management
-- -Billing and Payment Module
-- -Automated Messaging and Mailing system
-- -Optimized Database Query for more than 1000+ query at a time
+- -Solid Wooden Frame and painted/polished decorated shutter.
+- -Windows are sliding Aluminum section as per architectural design, Tinted glass & Security grills.
+- -Plastic/distemper paint on interior walls and ceilings.
+- -All electrical wirings, phone, dish, air conditioners, washing machine etc. lines will be concealed.
+- -Security system incorporates CCTV and digital cameras to monitor.
+- -Project will be supplied with electric power from DESA/DESCO.
+- -Underground and overhead water tank shall be constructed considering maximum consumption of water.
 
 
 __Project URL__
