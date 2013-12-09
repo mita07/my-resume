@@ -139,7 +139,7 @@ __*Features*__
 
 __Project URL__
 
-http://www.mitayesmin.com/my_project_works/project_on_real_estate_company/index.html
+http://www.mitayesmin.com/my_project_works/project_on_real_estate_company/index.html(http://www.mitayesmin.com/my_project_works/project_on_real_estate_company/index.html)
 
 
 `Project 02`
