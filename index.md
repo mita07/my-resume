@@ -190,7 +190,7 @@ Reading books, Reading and writing blog, Solving problem, Innovation, Travelling
 *To explore more about my professional footprints you can navigate to the following links-*
 
 __GitHub Repositories__
-[https://github.com/mita07](https://www.github.com/mitayesmin)
+[https://github.com/mita07](http://mita07.github.io/my-resume/)
 
 
 __Personal Blog__
