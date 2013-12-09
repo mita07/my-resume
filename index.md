@@ -175,15 +175,13 @@ __Project URL__
 
 __Musical Website__
 
--This website is made based on the present scenario of the agriculture and it provides some basic informations about an Agricultural Company.
+-This website is made based on the present scenario of the musical sector and it helps to find different types of songs of varius artists. 
 
 __*Features*__
 
-- -Use of modern technology & products
-- -Online membership
-- -Get news update on agriculture
-- -Provides better online services
-- -Billing and Payment Module
+- -Use of flash for animations
+- -Get latest music album
+- -Advantage of different types songs download or play
 
 __Project URL__
 
