@@ -14,7 +14,6 @@ Professional Web Designer, UI Enthusiast
 </div>
 
 
-
 ## Specialized in
 Designing interactive website to satisfy the client's need and requirements by using the latest tools and technologies. Specialized in User Interface design with highly optimized techniques.
 
