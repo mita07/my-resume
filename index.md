@@ -151,6 +151,23 @@ __Project URL__
 
 [http://www.mitayesmin.com/my_project_works/agricultural_website/index.html](http://www.mitayesmin.com/my_project_works/agricultural_website/index.html)
 
+<br/>
+
+`Project 03`
+
+__Works on CSS/CSS3 applications__
+
+-This is an example of CSS3 and it helps to know various applications of CSS/CSS3 in any webpage.
+
+__*Features*__
+
+- -CSS3 animation, transitions, gradients and 2D/3D transform
+- -Provides different applications of CSS/CSS3
+
+__Project URL__
+
+[http://www.mitayesmin.com/my_project_works/villege_scenery_using_css3/index.html](http://www.mitayesmin.com/my_project_works/villege_scenery_using_css3/index.html)
+[http://www.mitayesmin.com/my_project_works/bouncing_ball_using_css3/index.html](http://www.mitayesmin.com/my_project_works/bouncing_ball_using_css3/index.html)
 
 
 ## Personal Information
