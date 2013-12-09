@@ -131,12 +131,12 @@ __Project URL__
 
 [http://www.mitayesmin.com/my_project_works/project_on_real_estate_company/index.html](http://www.mitayesmin.com/my_project_works/project_on_real_estate_company/index.html)
 
-
+<br/>
 `Project 02`
 
-__Multi Level Marketing (MLM) Management__
+__A complete website of Agricultural Company__
 
-- Four different types of multi level marketing management system developed with Binary Tree and automated matching system integrated.
+-
 
 __*Features*__
 
@@ -151,7 +151,7 @@ __*Features*__
 
 __Project URL__
 
-http://www.mitayesmin.com/my_project_works/project_on_real_estate_company/index.html
+[http://www.mitayesmin.com/my_project_works/agricultural_website/index.html](http://www.mitayesmin.com/my_project_works/agricultural_website/index.html)
 
 
 
