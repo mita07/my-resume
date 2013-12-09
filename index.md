@@ -132,22 +132,20 @@ __Project URL__
 [http://www.mitayesmin.com/my_project_works/project_on_real_estate_company/index.html](http://www.mitayesmin.com/my_project_works/project_on_real_estate_company/index.html)
 
 <br/>
+
 `Project 02`
 
 __A complete website of Agricultural Company__
 
--
+-This website is made based on the present scenario of the agriculture and it provides some basic informations about an Agricultural Company.
 
 __*Features*__
 
-- -Complex Binary Tree Setup and CRUD operation
-- -Generation calculation through Binary Tree
-- -Automated Matching
-- -User Profile Management
+- -Use of modern technology & products
+- -Online membership
+- -Get news update on agriculture
+- -Provides better online services
 - -Billing and Payment Module
-- -Automated Messaging and Mailing system
-- -Optimized Database Query for more than 1000+ query at a time
-
 
 __Project URL__
 
