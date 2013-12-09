@@ -136,26 +136,32 @@ __*Features*__
 - -Automated Messaging and Mailing system
 - -Optimized Database Query for more than 1000+ query at a time
 
-__*Framework and Language*__
 
--Twitter Bootstrap (Front-end and UI development)
--CakePHP (Core functionality development)
+__Project URL__
 
+http://www.mitayesmin.com/my_project_works/project_on_real_estate_company/index.html
+
+
+`Project 02`
+
+__Multi Level Marketing (MLM) Management__
+
+- Four different types of multi level marketing management system developed with Binary Tree and automated matching system integrated.
+
+__*Features*__
+
+- -Complex Binary Tree Setup and CRUD operation
+- -Generation calculation through Binary Tree
+- -Automated Matching
+- -User Profile Management
+- -Billing and Payment Module
+- -Automated Messaging and Mailing system
+- -Optimized Database Query for more than 1000+ query at a time
 
 
 __Project URL__
 
-http://www.patriot-bd.com
-
- http://www.mitayesmin.com/my_project_works/project_on_real_estate_company/index.html
-
- http://www.mitayesmin.com/my_project_works/musical_website/index.html
-
- http://www.mitayesmin.com/my_project_works/villege_scenery_using_css3/index.html
-
- http://www.mitayesmin.com/my_project_works/agricultural_website/index.html
-
- http://www.mitayesmin.com/my_project_works/bouncing_ball_using_css3/index.html
+http://www.mitayesmin.com/my_project_works/project_on_real_estate_company/index.html
 
 
 
