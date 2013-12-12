@@ -99,6 +99,19 @@ Dreamweaver, NotePad++
 Windows 7/8, Windows XP
 
 
+## Training Summary
+`2013`
+__New Horizons Computer Learning Center__
+
+__Training Title__
+
+- Certified Internet Webmaster (CIW) course
+
+__Topic__
+
+- HTML,CSS,CSS3,Javascript,Jquery,Adobe Dreamweaver & Flash,Wordpress development,Responsive web design,Plug-ins and Databases
+
+
 ## Professional Experiences
 `2012`
 __Preview ICT Limited__
