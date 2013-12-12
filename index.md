@@ -109,7 +109,7 @@ __Training Title__
 
 __Topic__
 
-- HTML,CSS,CSS3,Javascript,Jquery,Adobe Dreamweaver & Flash,Wordpress development,Responsive web design,Plug-ins and Databases
+- HTML, CSS/CSS3, Javascript, Jquery, Adobe Dreamweaver & Flash, Wordpress development, Responsive web design, Plug-ins and Databases
 
 
 ## Professional Experiences
