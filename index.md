@@ -107,7 +107,7 @@ __Training Title__
 
 - Certified Internet Webmaster (CIW) course
 
-__Topic__
+__Course Topic__
 
 - HTML, CSS/CSS3, Javascript, Jquery, Adobe Dreamweaver & Flash, Wordpress development, Responsive web design, Plug-ins and Databases.
 
