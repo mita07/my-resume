@@ -81,7 +81,7 @@ __Framework__
 
 ### Graphics Design
 
-`Photoshop, Illustrator, PhotoImpact`
+`Photoshop,<br> Illustrator,<br> PhotoImpact`
 __Experience__
 - 3 years
 
