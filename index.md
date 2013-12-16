@@ -78,6 +78,17 @@ __Framework__
 - Twitter Bootstrap 3.0/2.0, Blueprint, 960 Grid System and most popular CSS frameworks
 
 
+
+### Graphics Design
+
+`Photoshop/Illustrator/PhotoImpact`
+__Experience__
+- 3 years
+
+__Description__
+- Any kind of logo, banner design with Photoshop, Illustrator & PhotoImpact depends on website design purpose. 
+
+
 ## Utilities and IDE
 ` `
 Dreamweaver, NotePad++
@@ -86,6 +97,19 @@ Dreamweaver, NotePad++
 ## OS and Web Server
 `OS`
 Windows 7/8, Windows XP
+
+
+## Training Summary
+`2013`
+__New Horizons Computer Learning Center__
+
+__Training Title__
+
+- Certified Internet Webmaster (CIW) course
+
+__Course Topic__
+
+- HTML, CSS/CSS3, Javascript, Jquery, Adobe Dreamweaver & Flash, Wordpress development, Responsive web design, Plug-ins and Databases.
 
 
 ## Professional Experiences
