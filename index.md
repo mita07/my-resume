@@ -4,6 +4,7 @@ title: Curriculum Vitae (CV) of Mostakima Yesmin
 ---
 # Mostakima Yesmin
 Professional Web Designer, UI Enthusiast
+<img src="http://www.shahariaazam.com/mita-pic.jpg" style="width:150px; border: 1px solid gray">
 
 <div id="webaddress">
 <a href="mailto:mita.yesmin@gmail.com" title="click to email">mita.yesmin@gmail.com</a>
@@ -16,9 +17,6 @@ Professional Web Designer, UI Enthusiast
 <div class="cvPic" style="width: 150px;">
   <center><img src="http://www.shahariaazam.com/mita-pic.jpg" style="width:150px; border: 1px solid gray"></center>
 </div>
-
-## 
-<img src="http://www.shahariaazam.com/mita-pic.jpg" style="width:150px; border: 1px solid gray">
 
 ## Specialized in
 Designing interactive website to satisfy the client's need and requirements by using the latest tools and technologies. Specialized in User Interface design with highly optimized techniques.
