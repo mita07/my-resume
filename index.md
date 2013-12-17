@@ -17,6 +17,8 @@ Professional Web Designer, UI Enthusiast
   <center><img src="http://www.shahariaazam.com/mita-pic.jpg" style="width:150px; border: 1px solid gray"></center>
 </div>
 
+## 
+<img src="http://www.shahariaazam.com/mita-pic.jpg" style="width:150px; border: 1px solid gray">
 
 ## Specialized in
 Designing interactive website to satisfy the client's need and requirements by using the latest tools and technologies. Specialized in User Interface design with highly optimized techniques.
