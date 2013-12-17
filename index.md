@@ -14,7 +14,7 @@ Professional Web Designer, UI Enthusiast
 </div>
 
 <div class="cvPic" style="width: 150px;">
-<img src="http://www.shahariaazam.com/mita-pic.jpg">
+  <center><img src="http://www.shahariaazam.com/mita-pic.jpg" style="width:150px; border: 1px solid gray"></center>
 </div>
 
 
