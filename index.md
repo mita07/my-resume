@@ -13,6 +13,10 @@ Professional Web Designer, UI Enthusiast
 | <a href="http://www.twitter.com/MitaYesmin1">Twitter</a>
 </div>
 
+<div class="cvPic" style="width: 150px;">
+<img src="http://www.shahariaazam.com/mita-pic.jpg">
+</div>
+
 
 ## Specialized in
 Designing interactive website to satisfy the client's need and requirements by using the latest tools and technologies. Specialized in User Interface design with highly optimized techniques.
