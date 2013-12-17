@@ -4,18 +4,14 @@ title: Curriculum Vitae (CV) of Mostakima Yesmin
 ---
 # Mostakima Yesmin
 Professional Web Designer, UI Enthusiast
-<img src="http://www.shahariaazam.com/mita-pic.jpg" style="width:150px; border: 1px solid gray">
 
 <div id="webaddress">
+<img src="http://www.shahariaazam.com/mita-pic.jpg" style="width:150px; border: 1px solid gray;text-align: center;margin-left: -30%;clear: both;margin-bottom: 20px;">
 <a href="mailto:mita.yesmin@gmail.com" title="click to email">mita.yesmin@gmail.com</a>
 | <a href="http://www.mitayesmin.com">mitayesmin.com</a>
 | <a href="https://www.facebook.com/mita.yesmin.3">facebook</a>
 | <a href="http://bit.ly/mita-gplus">Google Plus</a>
 | <a href="http://www.twitter.com/MitaYesmin1">Twitter</a>
-</div>
-
-<div class="cvPic" style="width: 150px;">
-  <center><img src="http://www.shahariaazam.com/mita-pic.jpg" style="width:150px; border: 1px solid gray"></center>
 </div>
 
 ## Specialized in
