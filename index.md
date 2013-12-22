@@ -74,9 +74,7 @@ __Experience__
 
 __Description__
 - Describes the presentation semantics (the look and formatting) of a document written in a markup language. Responsive   layout concepts is very much focused to increase user's usability in various device. Interactive designing with modern   look and feel to make any website or web apps more user-friendly and lookrative.
-
-__Framework__
-- Bootstrap and most popular CSS frameworks
+- Basic concept about Bootstrap and works with it.
 
 
 
