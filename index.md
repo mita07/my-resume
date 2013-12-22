@@ -60,7 +60,7 @@ __Experience__
 - 6 months
 
 __Description__
-- Rich UI design with interactivity and better usability for users. User friendly UI design with great interaction, effects for advancement of web applications.
+- UI design with interactivity and better usability for users. User friendly UI design with great interaction, effects for advancement of web applications.
 
 __Framework__
 - jQuery 
