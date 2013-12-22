@@ -73,8 +73,7 @@ __Experience__
 - 2 years
 
 __Description__
-- Describes the presentation semantics (the look and formatting) of a document written in a markup language. Interactive designing with modern   look and feel to make any website or web apps more user-friendly and lookrative.
-- Basic concept about Bootstrap and works with it.
+- Describes the presentation semantics (the look and formatting) of a document written in a markup language. Interactive designing with modern   look and feel to make any website or web apps more user-friendly and lookrative. Basic concept about Bootstrap and works with it.
 
 
 
