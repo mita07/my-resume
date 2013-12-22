@@ -51,7 +51,7 @@ __Experience__
 - 2 years
 
 __Description__
-- Design interactive and responsive UI with the latest HTML technology that meet any kinds of requirement of clients. Liquid and responsive web interface to fit the apps in almost all device without any major change in core UI.
+- Design interactive and responsive UI with the latest HTML technology that meet any kinds of requirement of clients. 
 
 ### Client-side Scripting Language
 
