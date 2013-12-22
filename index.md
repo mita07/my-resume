@@ -48,7 +48,7 @@ __Daffodil International University__
 
 `HTML/HTML5`
 __Experience__
-- 3 years
+- 2 years
 
 __Description__
 - Design interactive and responsive UI with the latest HTML technology that meet any kinds of requirement of clients. Liquid and responsive web interface to fit the apps in almost all device without any major change in core UI.
@@ -57,26 +57,26 @@ __Description__
 
 `JS`
 __Experience__
-- 2 years
+- 6 months
 
 __Description__
 - Rich UI design with interactivity and better usability for users. User friendly UI design with great interaction, effects for advancement of web applications.
 
 __Framework__
-- jQuery, jQuery Mobile (Mobile device friendly UI)
+- jQuery 
 
 
 ### Style-sheet Language
 
 `CSS 2/3`
 __Experience__
-- 3 years
+- 1 years
 
 __Description__
-- Describes the presentation semantics (the look and formatting) of a document written in a markup language. Responsive, liquid and grid layout concepts is very much focused to increase user's usability in various device. Interactive designing with modern look and feel to make any website or web apps more user-friendly and lookrative.
+- Describes the presentation semantics (the look and formatting) of a document written in a markup language. Responsive   layout concepts is very much focused to increase user's usability in various device. Interactive designing with modern   look and feel to make any website or web apps more user-friendly and lookrative.
 
 __Framework__
-- Twitter Bootstrap 3.0/2.0, Blueprint, 960 Grid System and most popular CSS frameworks
+- Bootstrap and most popular CSS frameworks
 
 
 
@@ -84,10 +84,10 @@ __Framework__
 
 `Photoshop/Illustrator/PhotoImpact`
 __Experience__
-- 3 years
+- 2 years
 
 __Description__
-- Any kind of logo, banner design with Photoshop, Illustrator & PhotoImpact depends on website design purpose. 
+- Different types of logo, banner design with Photoshop, Illustrator & PhotoImpact depends on website design purpose. 
 
 
 ## Utilities and IDE
