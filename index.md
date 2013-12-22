@@ -60,7 +60,7 @@ __Experience__
 - 6 months
 
 __Description__
-- UI design with interactivity and better usability for users. User friendly UI design with great interaction, effects for advancement of web applications.
+- UI design with interactivity and better usability for users. User friendly UI design with great interaction, effects    for advancement of web applications.
 
 __Framework__
 - jQuery 
@@ -73,7 +73,7 @@ __Experience__
 - 2 years
 
 __Description__
-- Describes the presentation semantics (the look and formatting) of a document written in a markup language. Responsive   layout concepts is very much focused to increase user's usability in various device. Interactive designing with modern   look and feel to make any website or web apps more user-friendly and lookrative.
+- Describes the presentation semantics (the look and formatting) of a document written in a markup language. Interactive   designing with modern   look and feel to make any website or web apps more user-friendly and lookrative.
 - Basic concept about Bootstrap and works with it.
 
 
@@ -108,7 +108,7 @@ __Training Title__
 
 __Course Topic__
 
-- HTML, CSS/CSS3, Javascript, Jquery, Adobe Dreamweaver & Flash, Wordpress development, Responsive web design, Plug-ins and Databases.
+- HTML, CSS/CSS3, Javascript, Jquery, Adobe Dreamweaver & Flash, Wordpress development, Responsive web design, Plug-ins   and Databases.
 
 
 ## Professional Experiences
@@ -119,7 +119,7 @@ __Preview ICT Limited__
 
 __Responsibility__
 
-- Design website basis on requirements of various types of clients, Responsive design testing, mock-up web page design and UI extend or modification.
+- Design website basis on requirements of various types of clients, Responsive design testing, mock-up web page design    and UI extend or modification.
 
 __Duration__
 
@@ -136,7 +136,9 @@ __URL__
 __A complete website of Real Estate Company__
 
 - ABCD Design & Builders ltd. is an explosion of global modern real estate sector for the purpose of the country
-citizens need. Its sister concern of can enterprise. A group of well experienced diversified personalities having thorough hands on working habits in the real estate sector of Bangladesh as well as clear concept of similar to the global market. 
+  citizens need. Its sister concern of can enterprise. A group of well experienced diversified personalities having     
+  thorough hands on working habits in the real estate sector of Bangladesh as well as clear concept of similar to the
+  global market. 
 
 __*Features*__
 
@@ -159,7 +161,7 @@ __Project URL__
 
 __A complete website of Agricultural Company__
 
--This website is made based on the present scenario of the agriculture and it provides some basic informations about an Agricultural Company.
+- This website is made based on the present scenario of the agriculture and it provides some basic informations about an Agricultural Company.
 
 __*Features*__
 
@@ -197,7 +199,7 @@ __Project URL__
 
 __Musical Website__
 
--This website is made based on the present scenario of the musical sector and it helps to find different types of songs of varius artists. 
+-This website is made based on the present scenario of the musical sector and it helps to find different types of songs  of varius artists. 
 
 __*Features*__
 
