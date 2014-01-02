@@ -243,21 +243,3 @@ __Personal Blog__
 [http://www.mitayesmin.com](http://www.mitayesmin.com)
 
 
-## Reference
-__G. M. Shaharia Azam__
-
-Managing Directory
-
-Preview ICT Limited
-
-shaharia@previewict.com
-
-<br />
-
-__Yusuf M. Islam__
-
-Director, Daffodil Human Resource Development Institute
-
-Dhaka, Bangladesh.
-
-ymislam@gmail.com
