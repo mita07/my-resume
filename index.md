@@ -244,22 +244,15 @@ __Personal Blog__
 
 
 ## Reference
-__G. M. Shaharia Azam__
+__Syed Akhter Hossain, PhD__
 
-Managing Directory
+Professor and Head
 
-Preview ICT Limited
+Department of CSE/CS/CIS
 
-shaharia@previewict.com
+Daffodil International University
 
-<br />
+Email: aktarhossain@daffodilvarsity.edu.bd
 
-__Yusuf M. Islam__
-
-Director, Daffodil Human Resource Development Institute
-
-Dhaka, Bangladesh.
-
-ymislam@gmail.com
 
 
