@@ -244,11 +244,13 @@ __Personal Blog__
 
 
 ## Reference
-__Syed Akhter Hossain, PhD__
+__Dr Syed Akhter Hossain, PhD__
 
 Professor and Head
 
 Department of CSE/CS/CIS
+
+Faculty of Computer Science and Engineering
 
 Daffodil International University
 
