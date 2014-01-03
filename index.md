@@ -107,7 +107,7 @@ __Training Title__
 
 __Course Topic__
 
-- HTML, CSS/CSS3, Javascript, Jquery, Adobe Dreamweaver & Flash, Wordpress development,Responsive web design, Plug-ins and Databases.
+- HTML, CSS/CSS3, Javascript, Jquery, Adobe Dreamweaver & Flash, Wordpress development, Responsive web design, Plug-ins and Databases.
 
 
 ## Professional Experiences
@@ -118,7 +118,7 @@ __Preview ICT Limited__
 
 __Responsibility__
 
-- Design website basis on requirements of various types of clients, Responsive design testing,mock-up web page design  and UI extend or modification.
+- Design website basis on requirements of various types of clients, Responsive design testing, mock-up web page design and UI extend or modification.
 
 __Duration__
 
@@ -134,7 +134,7 @@ __URL__
 
 __A complete website of Real Estate Company__
 
-- ABCD Design & Builders ltd. is an explosion of global modern real estate sector for the purpose of the country citizens need. Its sister concern of can enterprise. A group of well experienced diversified personalities having thorough hands on working habits in the real estate sector of Bangladesh as well as clear concept of similar to the global market. 
+- ABCD Design & Builders ltd. is an explosion of global modern real estate sector for the purpose of the country citizens need. Its sister concern of can enterprise. A group of well experienced diversified personalities having  thorough hands on working habits in the real estate sector of Bangladesh as well as clear concept of similar to the global market. 
 
 __*Features*__
 
