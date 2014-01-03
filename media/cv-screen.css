@@ -120,7 +120,7 @@ h1,h2,h3,h4 {
 
 h1 {
 	text-align: left;
-	font-size: 3em;
+	font-size: 4em;
 	line-height: 1em;
 	position: relative;
 	left: 33%;
@@ -143,7 +143,7 @@ h2 {
 }
 
 h3 {
-	font-size: 1em;
+	font-size: 2em;
 	line-height: 2em; 
 	position: relative;
 	top: 1.7em;
