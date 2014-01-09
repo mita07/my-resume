@@ -16,7 +16,7 @@ Professional Web Designer, UI Enthusiast
 </div>
 
 ## Specialized in
-Designing interactive website to satisfy the client's need and requirements by using the latest tools and technologies. Specialized in User Interface design with highly optimized techniques.
+Designing interactive website to satisfy the client's need and requirements by using the latest tools and technologies. Specialized in User Interface design with highly optimized techniques. Have good knowledge on mind map.
 
 ## Research interests
 Web Technology, Information Technology, Internet, Networking, Reading, Writing.
@@ -88,7 +88,7 @@ Windows 7/8, Windows XP
 
 ### Software
 ` `
-MS Office, Star UML, BiaAzi Modeler software and more
+MS Office, Star UML, BizAgi Modeler software and more
 
 
 ## Training Summary
