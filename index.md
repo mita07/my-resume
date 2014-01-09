@@ -85,7 +85,10 @@ Dreamweaver, NotePad++
 `OS`
 Windows 7/8, Windows XP
 
-## MS Office, Star UML, BiaAzi software
+
+### Software
+` `
+MS Office, Star UML, BiaAzi Modeler software and more
 
 
 ## Training Summary
