@@ -3,7 +3,7 @@ layout: cv
 title: Curriculum Vitae (CV) of Mostakima Yesmin
 ---
 # Mostakima Yesmin
-Professional Web Designer, UI Enthusiast
+Web Designer, UI Enthusiast
 
 <div id="webaddress">
 <img src="http://www.shahariaazam.com/mita-pic.jpg" style="width:150px; border: 1px solid gray;text-align: center;margin-left: 10%;clear: both;margin-bottom: 20px; margin-top: 10px;">
@@ -16,7 +16,7 @@ Professional Web Designer, UI Enthusiast
 </div>
 
 ## Specialized in
-Designing interactive website to satisfy the client's need and requirements by using the latest tools and technologies. Specialized in User Interface design with highly optimized techniques. Have good knowledge on mind map.
+Designing interactive website to satisfy the client's need and requirements by using the latest tools and technologies. Specialized in User Interface design with modern techniques. Have good knowledge on mind map. 
 
 ## Research interests
 Web Technology, Information Technology, Internet, Networking, Reading, Writing.
@@ -55,7 +55,7 @@ __Description__
 `JS`
 
 __Description__
-- UI design with interactivity and better usability for users. User friendly UI design with great interaction, effects  for advancement of web applications.
+- UI design with interactivity and better usability for users. User friendly UI design with great interaction.
 
 __Framework__
 - jQuery 
@@ -65,13 +65,13 @@ __Framework__
 
 `CSS 2/3`
 __Description__
-- Describes the presentation semantics (the look and formatting) of a document written in a markup language. Interactive designing with modern   look and feel to make any website or web apps more user-friendly and lookrative. Basic concept about Bootstrap and works with it.
+- Interactive designing with modern look and feel to make any website more user-friendly and lookrative. Basic concept about Bootstrap and works with it. 
 
 
 
 ### Graphics Design
 
-`Photoshop/Illustrator/PhotoImpact`
+``
 __Description__
 - Different types of logo, banner design with Photoshop, Illustrator & PhotoImpact depends on website design purpose. 
 
@@ -112,7 +112,7 @@ __Preview ICT Limited__
 
 __Responsibility__
 
-- Design website basis on requirements of various types of clients, Responsive design testing, mock-up web page design and UI extend or modification.
+- Design website basis on requirements of various types of clients, mock-up web page design and UI extend or modification.
 
 __Duration__
 
