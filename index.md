@@ -71,7 +71,6 @@ __Description__
 
 ### Graphics Design
 
-``
 __Description__
 - Different types of logo, banner design with Photoshop, Illustrator & PhotoImpact depends on website design purpose. 
 
@@ -88,7 +87,7 @@ Windows 7/8, Windows XP
 
 ### Software
 ` `
-MS Office, Star UML, BizAgi Modeler software and more
+MS Office, Star UML & BizAgi Modeler software (for project structure) and more
 
 
 ## Training Summary
