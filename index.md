@@ -47,8 +47,6 @@ __Daffodil International University__
 ### Markup Language
 
 `HTML/HTML5`
-__Experience__
-- 2 years
 
 __Description__
 - Design interactive and responsive UI with the latest HTML technology that meet any kinds of requirement of clients. 
@@ -56,8 +54,6 @@ __Description__
 ### Client-side Scripting Language
 
 `JS`
-__Experience__
-- 6 months
 
 __Description__
 - UI design with interactivity and better usability for users. User friendly UI design with great interaction, effects  for advancement of web applications.
@@ -69,8 +65,6 @@ __Framework__
 ### Style-sheet Language
 
 `CSS 2/3`
-__Experience__
-- 2 years
 
 __Description__
 - Describes the presentation semantics (the look and formatting) of a document written in a markup language. Interactive designing with modern   look and feel to make any website or web apps more user-friendly and lookrative. Basic concept about Bootstrap and works with it.
@@ -80,8 +74,6 @@ __Description__
 ### Graphics Design
 
 `Photoshop/Illustrator/PhotoImpact`
-__Experience__
-- 2 years
 
 __Description__
 - Different types of logo, banner design with Photoshop, Illustrator & PhotoImpact depends on website design purpose. 
@@ -95,6 +87,8 @@ Dreamweaver, NotePad++
 ## OS and Web Server
 `OS`
 Windows 7/8, Windows XP
+
+## MS Office, Star UML, BiaAzi software
 
 
 ## Training Summary
@@ -155,6 +149,15 @@ __Project URL__
 
 `Project 02`
 
+_Project URL__
+
+[http://www.mitayesmin.com/my_project_works/view_of_bangladesh/](http://www.mitayesmin.com/my_project_works/view_of_bangladesh/)
+
+- -Responsive design using bootstrap
+
+
+`Project 03`
+
 __A complete website of Agricultural Company__
 
 - This website is made based on the present scenario of the agriculture and it provides some basic informations about an Agricultural Company.
@@ -173,7 +176,7 @@ __Project URL__
 
 <br/>
 
-`Project 03`
+`Project 04`
 
 __Works on CSS/CSS3 applications__
 
@@ -191,7 +194,7 @@ __Project URL__
 
 <br/>
 
-`Project 04`
+`Project 05`
 
 __Musical Website__
 
