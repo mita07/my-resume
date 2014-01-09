@@ -47,7 +47,6 @@ __Daffodil International University__
 ### Markup Language
 
 `HTML/HTML5`
-
 __Description__
 - Design interactive and responsive UI with the latest HTML technology that meet any kinds of requirement of clients. 
 
@@ -65,7 +64,6 @@ __Framework__
 ### Style-sheet Language
 
 `CSS 2/3`
-
 __Description__
 - Describes the presentation semantics (the look and formatting) of a document written in a markup language. Interactive designing with modern   look and feel to make any website or web apps more user-friendly and lookrative. Basic concept about Bootstrap and works with it.
 
@@ -74,7 +72,6 @@ __Description__
 ### Graphics Design
 
 `Photoshop/Illustrator/PhotoImpact`
-
 __Description__
 - Different types of logo, banner design with Photoshop, Illustrator & PhotoImpact depends on website design purpose. 
 
@@ -154,7 +151,7 @@ __Project URL__
 [http://www.mitayesmin.com/my_project_works/view_of_bangladesh/](http://www.mitayesmin.com/my_project_works/view_of_bangladesh/)
 
 - -Responsive design using bootstrap
-
+<br/>
 
 `Project 03`
 
