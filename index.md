@@ -149,7 +149,7 @@ __Project URL__
 
 `Project 02`
 
-_Project URL__
+__Project URL__
 
 [http://www.mitayesmin.com/my_project_works/view_of_bangladesh/](http://www.mitayesmin.com/my_project_works/view_of_bangladesh/)
 
