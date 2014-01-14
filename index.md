@@ -244,13 +244,13 @@ __Personal Blog__
 
 
 ## Reference
-__G. M. Shaharia Azam__
+__Lieutenant Colonel Mohammad Sajjad Hossain, CSE__
 
-Managing Director
+Director
 
-Preview ICT Limited
+Spectrum Management Directorate & Spectrum Monitoring Directorate
 
-shaharia@previewict.com
+sajjad@btrc.gov.bd
 
 <br />
 
