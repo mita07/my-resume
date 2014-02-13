@@ -39,7 +39,7 @@ __Adamjee Cantonment College__
 `2013`
 __Daffodil International University__
 - Bachelors in Computer Science and Engineering
-- CGPA : 3.21
+
 
 ## Language and Technologies
 
