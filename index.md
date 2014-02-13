@@ -39,6 +39,7 @@ __Adamjee Cantonment College__
 `2013`
 __Daffodil International University__
 - Bachelors in Computer Science and Engineering
+- CGPA : 3.21
 
 ## Language and Technologies
 
@@ -102,12 +103,18 @@ __Course Topic__
 
 - HTML, CSS/CSS3, Javascript, Jquery, Adobe Dreamweaver & Flash, Wordpress development, Responsive web design, Plug-ins and Databases.
 
+`2014`
+__New Horizons Computer Learning Center__
+
+__Training Title__
+
+- PHP and Mysql (running)
 
 ## Professional Experiences
 `2012`
 __Preview ICT Limited__
 
-- Jr. Web Designer
+- Jr. Web Designer (for enternship)
 
 __Responsibility__
 
@@ -115,11 +122,21 @@ __Responsibility__
 
 __Duration__
 
-February 2012 to 2013
+September 2012 to April 2013
 
 __URL__
 
 [http://www.previewict.com](http://www.previewict.com)
+
+`2014` (current job)
+__Daffodil International School, Dhanmondi__
+
+- Assistant IT Officer
+
+__Duration__
+
+January 2014 (running)
+
 
 
 ## Project Demo
