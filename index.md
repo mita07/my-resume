@@ -3,7 +3,7 @@ layout: cv
 title: Curriculum Vitae (CV) of Mostakima Yesmin
 ---
 # Mostakima Yesmin
-Web Designer, UI Enthusiast
+Web Developer
 
 <div id="webaddress">
 <img src="http://www.shahariaazam.com/mita-pic.jpg" style="width:150px; border: 1px solid gray;text-align: center;margin-left: 10%;clear: both;margin-bottom: 20px; margin-top: 10px;">
@@ -261,15 +261,6 @@ __Personal Blog__
 
 
 ## Reference
-__Lieutenant Colonel Mohammad Sajjad Hossain, CSE__
-
-Director
-
-Spectrum Management Directorate & Spectrum Monitoring Directorate
-
-sajjad@btrc.gov.bd
-
-<br />
 
 __Yusuf M. Islam__
 
@@ -279,5 +270,14 @@ Dhaka, Bangladesh.
 
 ymislam@gmail.com
 
+<br>
+
+__G.M. Shaharia Azam__
+
+Managing Director
+
+Preview ICT Limited
+
+https://www.previewict.com/
 
 
