@@ -30,18 +30,18 @@ English: Moderate oral & written fluency
 __Adarsha Biddya Niketon__
 - Secondary School Certificate
 - Science group
-- Result: 4.63
+
 
 `2008`
 __Adamjee Cantonment College__
 - Higher Secondary Certificate
 - Science Group
-- Result: 4.20 
+
 
 `2013`
 __Daffodil International University__
 - Bachelors in Computer Science and Engineering
-- Result: 3.21
+
 
 ## Language and Technologies
 
@@ -249,7 +249,6 @@ __Marital Status__
 
 __Contact__
 - Email: mita.yesmin@gmail.com
-- Cell: 01685253849
 
 
 
@@ -269,17 +268,6 @@ __Personal Blog__
 
 ## Reference
 
-__Lieutenant Colonel Mohammad Sajjad Hossain, CSE__
-
-Director
-
-Spectrum Management Directorate & Spectrum Monitoring Directorate 
-
-Dhaka, Bangladesh.
-
-sajjad@btrc.gov.bd
-
-<br>
 
 __Yusuf M. Islam__
 
