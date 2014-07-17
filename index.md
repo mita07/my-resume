@@ -31,6 +31,7 @@ __Adarsha Biddya Niketon__
 - Secondary School Certificate
 - Science group
 - Result: 4.63
+
 `2008`
 __Adamjee Cantonment College__
 - Higher Secondary Certificate
