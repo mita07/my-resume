@@ -113,7 +113,7 @@ __Training Title__
 - PHP and Mysql 
 
 ## Professional Experiences
-`2012`
+`2014`
 __Preview Technologies Limited__
 
 - Sr. Web Designer
@@ -189,6 +189,7 @@ Director, Daffodil Human Resource Development Institute
 Dhaka, Bangladesh.
 
 ymislam@gmail.com
+
 
 
 __Shaharia Azam__
