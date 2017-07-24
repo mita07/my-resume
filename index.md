@@ -3,7 +3,7 @@ layout: cv
 title: Curriculum Vitae (CV) of Mostakima Yesmin
 ---
 # Mostakima Yesmin
-Web Developer
+Sr. Web Designer
 
 <div id="webaddress">
 <img src="http://www.shahariaazam.com/mita-pic.jpg" style="width:150px; border: 1px solid gray;text-align: center;margin-left: 10%;clear: both;margin-bottom: 20px; margin-top: 10px;">
@@ -114,9 +114,9 @@ __Training Title__
 
 ## Professional Experiences
 `2012`
-__Preview ICT Limited__
+__Preview Technologies Limited__
 
-- Jr. Web Designer (for enternship)
+- Sr. Web Designer
 
 __Responsibility__
 
@@ -124,110 +124,20 @@ __Responsibility__
 
 __Duration__
 
-September 2012 to April 2013
+From November 2014 (running)
 
 __URL__
 
-[http://www.previewict.com](http://www.previewict.com)
+[http://previewtechs.com](http://previewtechs.com)
 
-`2014` (current job)
+`2014` 
 __Daffodil International School, Dhanmondi__
 
 - Assistant IT Officer
 
 __Duration__
 
-From January 2014 (running)
-
-
-
-## Project Demo
-`Project 01`
-
-__A complete website of Real Estate Company__
-
-- ABCD Design & Builders ltd. is an explosion of global modern real estate sector for the purpose of the country citizens need. Its sister concern of can enterprise. A group of well experienced diversified personalities having  thorough hands on working habits in the real estate sector of Bangladesh as well as clear concept of similar to the global market. 
-
-__*Features*__
-
-- -Solid Wooden Frame and painted/polished decorated shutter.
-- -Windows are sliding Aluminum section as per architectural design, Tinted glass & Security grills.
-- -Plastic/distemper paint on interior walls and ceilings.
-- -All electrical wirings, phone, dish, air conditioners, washing machine etc. lines will be concealed.
-- -Security system incorporates CCTV and digital cameras to monitor.
-- -Project will be supplied with electric power from DESA/DESCO.
-- -Underground and overhead water tank shall be constructed considering maximum consumption of water.
-
-
-__Project URL__
-
-[http://www.mitayesmin.com/my_project_works/project_on_real_estate_company/index.html](http://www.mitayesmin.com/my_project_works/project_on_real_estate_company/index.html)
-
-<br/>
-
-`Project 02`
-
-__Project URL__
-
-[http://www.mitayesmin.com/my_project_works/view_of_bangladesh/](http://www.mitayesmin.com/my_project_works/view_of_bangladesh/)
-
-- -Responsive design using bootstrap
-<br/>
-
-
-`Project 03`
-
-__A complete website of Agricultural Company__
-
-- This website is made based on the present scenario of the agriculture and it provides some basic informations about an Agricultural Company.
-
-__*Features*__
-
-- -Use of modern technology & products
-- -Online membership
-- -Get news update on agriculture
-- -Provides better online services
-- -Billing and Payment Module
-
-__Project URL__
-
-[http://www.mitayesmin.com/my_project_works/agricultural_website/index.html](http://www.mitayesmin.com/my_project_works/agricultural_website/index.html)
-
-<br/>
-
-`Project 04`
-
-__Works on CSS/CSS3 applications__
-
--This is an example of CSS3 and it helps to know various applications of CSS/CSS3 in any webpage.
-
-__*Features*__
-
-- -CSS3 animation, transitions, gradients and 2D/3D transform
-- -Provides different applications of CSS/CSS3
-
-__Project URL__
-
-[http://www.mitayesmin.com/my_project_works/villege_scenery_using_css3/index.html](http://www.mitayesmin.com/my_project_works/villege_scenery_using_css3/index.html)
-[http://www.mitayesmin.com/my_project_works/bouncing_ball_using_css3/index.html](http://www.mitayesmin.com/my_project_works/bouncing_ball_using_css3/index.html)
-
-<br/>
-
-`Project 05`
-
-__Musical Website__
-
--This website is made based on the present scenario of the musical sector and it helps to find different types of songs of varius artists. 
-
-__*Features*__
-
-- -Usingflash for animations
-- -Get latest music album
-- -Advantage of different types songs download or play
-
-__Project URL__
-
-[http://www.mitayesmin.com/my_project_works/musical_website/index.html](http://www.mitayesmin.com/my_project_works/musical_website/index.html)
+From January 2014 to October 2014
 
 
 
@@ -237,6 +147,9 @@ __Name of Father__
 
 __Name of Mother__
 - Tajerin Akter
+
+__Name of Husband__
+- Shaharia Azam
 
 __Date of Birth__
 - 03 November, 1991
@@ -277,6 +190,14 @@ Dhaka, Bangladesh.
 
 ymislam@gmail.com
 
+
+__Shaharia Azam__
+
+Managing Director, Preview Technologies Limited
+
+Dhaka, Bangladesh.
+
+shaharia.azam@gmail.com
 
 
 
